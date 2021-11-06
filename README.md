@@ -1,6 +1,6 @@
 # portal2_cross
 
-A Linux and Windows compatible Portal 2 Cheat, written as a fun project.
+A Linux and Windows compatible Portal 2 memory hack, written as a fun project.
 
 ### Information
 * Most interesting code parts should be commented.
