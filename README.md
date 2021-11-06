@@ -10,4 +10,5 @@ A Linux and Windows compatible Portal 2 Cheat, written as a fun project.
 * On Linux you can (ab)use GDB to call dlopen from the process.
 
 ### In action
+* The features are controlled via the in game console, by registering our own console variables (cvars).
 * You can watch a demo here: https://streamable.com/11vp9l
