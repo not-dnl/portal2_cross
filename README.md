@@ -11,4 +11,5 @@ A Linux and Windows compatible Portal 2 memory hack, written as a fun project.
 
 ### In action
 * The features are controlled via the in game console, by registering our own console variables (cvars).
-* You can watch a demo here: https://streamable.com/11vp9l
+* Demo:
+<video width="630" height="300" src="https://github.com/user-attachments/assets/46fdf432-b81b-4d95-8d21-3da131ca1222"></video>
